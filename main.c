@@ -7,6 +7,9 @@ int main(void)
   printf("This should only be in second branch but not in main!\n");
   
 
+
   
+
+
   return 0;
 }
