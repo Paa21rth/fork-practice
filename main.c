@@ -12,7 +12,18 @@ int main(void)
  //emir branch comment
   // rojhat comment
   //rojhat comment 2
+  /*
   
+  text
+  text
+  text
+  text
+
+  text
+  text
+
+  text
+  */
 
   //comment
 
